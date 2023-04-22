@@ -1,7 +1,7 @@
 # Real Time Object Detection
 
 ## Introduction:
-This project is focused on detecting objects in images and videos using Deep Learnign and computer vision techniques. The project uses a pre-trained YOLOV5 model and fine-tunes it on a custom dataset.
+This project is focused on detecting objects in images and videos using Deep Learning and computer vision techniques. The project uses a pre-trained YOLOV5 model and fine-tunes it on a custom dataset.
 
 ## Data:
 The dataset used in this project is custom dataset of 5,012 images with 20 different classes.The images are of varying sizes and have been pre-processed to have consistent size and quality at the input of YOLOV5 model. The dataset is divided into a training set (4,010 images) and test set ( 1,002 images).
