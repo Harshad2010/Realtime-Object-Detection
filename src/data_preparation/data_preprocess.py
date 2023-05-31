@@ -16,7 +16,7 @@ class DataPreprocess :
         pass
     
     def preprocess():
-        "Preprocesses all data"
+        "Preprocesses all data - convert files from XML to text format"
         try:
             # get path of each xml file.
             xmlfiles = glob("src/data_images/*.xml")
